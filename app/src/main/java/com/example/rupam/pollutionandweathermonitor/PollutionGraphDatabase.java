@@ -1,4 +1,4 @@
-package com.example.ankur.pollutionandweathermonitor;
+package com.example.rupam.pollutionandweathermonitor;
 
 import android.support.v7.app.AppCompatActivity;
 
@@ -23,4 +23,3 @@ public class PollutionGraphDatabase extends AppCompatActivity {
         //overridePendingTransition(R.anim.move_left_in_activity, R.anim.move_right_out_activity);
     }
 }
-

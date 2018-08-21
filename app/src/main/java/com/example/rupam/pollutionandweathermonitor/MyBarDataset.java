@@ -1,4 +1,4 @@
-package com.example.ankur.pollutionandweathermonitor;
+package com.example.rupam.pollutionandweathermonitor;
 
 /**
  * Created by ankur on 08.03.2016.
@@ -26,5 +26,3 @@ public class MyBarDataset extends BarDataSet {
             return mColors.get(2);
     }
 }
-
-
